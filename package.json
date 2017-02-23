@@ -1,0 +1,19 @@
+{
+  "name": "es2015-minimal",
+  "version": "0.0.1",
+  "description": "Minimal project to write and run es2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsen/es2015-minimal.git"
+  },
+  "author": "Erik Haider Forsén <npm@mail.forsen.no>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsen/es2015-minimal/issues"
+  },
+  "homepage": "https://github.com/forsen/es2015-minimal#readme"
+}
